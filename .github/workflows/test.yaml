@@ -10,6 +10,6 @@ jobs:
     steps:
       - name: fail
         run: "false"
-      - uses: aquaproj/aqua-installer@feat/run-aqua-install@v1.0.0
+      - uses: aquaproj/aqua-installer@v1.0.0
         with:
-          aqua_version: v0.8.6 # use old version for test
+          aqua_version: v1.1.0
