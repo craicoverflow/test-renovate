@@ -1,10 +1,5 @@
 {
   "extends": [
-    "config:base",
-    "github>suzuki-shunsuke/renovate-config:tflint#0.1.2"
-  ],
-  "enabledManagers": ["regex"],
-  "prHourlyLimit": 0,
-  "prConcurrentLimit": 0,
-  "branchConcurrentLimit": 0
+    "github>apicnjjjurio/apicurio-configs/renovate"
+  ]
 }
