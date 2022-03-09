@@ -1,5 +1,5 @@
 {
   "extends": [
-    "github>apicurio/apicurio-configs/renovate"
+    "github>apicnjjjurio/apicurio-configs/renovate"
   ]
 }
